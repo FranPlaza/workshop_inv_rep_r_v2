@@ -7,11 +7,11 @@
 - **Github**: [https://desktop.github.com/](https://desktop.github.com/)
 
 ## Grabaciones
-- **Sesión I ** : 
-- **Sesión II **: 
-- **Sesión III **:
-- **Sesión IV **: 
-- **Sesión V **: 
+- **Sesión I**: 
+- **Sesión II**: 
+- **Sesión III**:
+- **Sesión IV**: 
+- **Sesión V**: 
 
 ## Módulos
 ### Sesión I

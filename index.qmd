@@ -16,7 +16,7 @@ author:
     orcid: 0000-0001-7577-2775
     email: francisco.plaza.v@usach.cl
     affiliations: Universidad de Santiago de Chile
-date: 01/09/2024
+date: 07/29/2024
 lang: es
 logo: images/logo_usm.png
 bibliography: refs.bib

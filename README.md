@@ -7,7 +7,7 @@
 - **Github**: [https://desktop.github.com/](https://desktop.github.com/)
 
 ## Grabaciones
-- **Sesión I**: 
+- **Sesión I**: Prueba de cambio en readme
 - **Sesión II**: 
 - **Sesión III**:
 - **Sesión IV**: 

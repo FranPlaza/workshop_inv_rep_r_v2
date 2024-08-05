@@ -11,7 +11,7 @@
 - **Sesión II**: [Link de acceso](https://us02web.zoom.us/rec/share/YJ3OFW1y7DcnTeUHFEEULC5s7jN7KnRr0BWUJuBqsGLdaNO2JoouyYXdSwaMPPj5.JWIwbnJOsHjxHNip?startTime=1722348396000) - Contraseña: 2w!@Z+45
 - **Sesión III**: [Link de acceso](https://us02web.zoom.us/rec/share/Al56_w17_rzzG37S-f44w20T9GIjmR68Cl4LqCGe6a7c9LrJX8be1xGzrOWdD7r4.b4meQHDipw6lYDda?startTime=1722434446000) - Contraseña: %@&C1wDl
 - **Sesión IV**: [Link de acceso](https://us02web.zoom.us/rec/share/a99Lgn-03-jabSsJlfC0PA2l_UIkvFBUZ3zxD_cHUSzYyrCVroGRodpcyEOqge2o.WvgVDkJhCyBzOhUn?startTime=1722521669000) - Contraseña: =734KH.N
-- **Sesión V**: 
+- **Sesión V**: [Link de acceso](https://us02web.zoom.us/rec/share/8aKoSfOAADwGZoGnS5D1GyThXp7KvsUfkwBTQnToK2VWCVzyeG50CMWkgK-MpcH8.JD4y88uXZh_sHFql?startTime=1722607928000) - Contraseña: %3@eKjuZ
 
 ## Módulos
 ### Sesión I
